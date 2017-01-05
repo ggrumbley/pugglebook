@@ -1,0 +1,2 @@
+class Puggle < ApplicationRecord
+end
