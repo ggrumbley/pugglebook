@@ -9,5 +9,11 @@ f1 = Food.create(name: "Bacon")
 f2 = Food.create(name: "Potato Chips")
 f3 = Food.create(name: "Carrots")
 
-FavoriteFood.create(puggle: p1, food: f1)
+FavoriteFood.create(puggle: p1, food: f3)
 FavoriteFood.create(puggle: p2, food: f2)
+
+FavoriteFood.create(puggle: p3, food: f1)
+
+FavoriteFood.create(puggle: p4, food: f2)
+
+FavoriteFood.create(puggle: p5, food: f1)
